@@ -15,7 +15,7 @@ To have this package working you need:
 1. Include `pinax-theme-bootstrap-account` in your requirements file and 
    `pinax_theme_bootstrap_account` in your INSTALLED APPS.
 
-2. Include "account.context_processors.account" in your `TEMPLATE_CONTEXT_PROCESSORS`
+2. Include "pinax_theme_bootstrap_account.context_processors.theme" in your `TEMPLATE_CONTEXT_PROCESSORS`
 
 3. Define a `THEME_ACCOUNT_CONTACT_EMAIL` email address in your settings. This e-mail is 
    displayed on the website to users as the e-mail to write when something does not work,
