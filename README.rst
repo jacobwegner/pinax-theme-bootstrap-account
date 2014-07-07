@@ -30,4 +30,6 @@ version of django-staticfiles as we use the `{% render %}` template tag.
 
 Making changes in one place.
 
-And now another commit
+And now another commit.
+
+I think the feature branch is "done"
