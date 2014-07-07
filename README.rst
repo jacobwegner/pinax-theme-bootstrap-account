@@ -30,4 +30,4 @@ version of django-staticfiles as we use the `{% render %}` template tag.
 
 Making changes in one place.
 
-And now another
+And now another commit
